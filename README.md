@@ -53,9 +53,11 @@
 ### Локальный запуск
 
 1. **Клонируйте репозиторий**
+
    git clone https://github.com/ваш-username/3d-models-catalog.git
    
    cd 3d-models-catalog
 
-2. **Откройте index.html в любом браузере**
+3. **Откройте index.html в любом браузере**
+
 Просто дважды кликните на файл
