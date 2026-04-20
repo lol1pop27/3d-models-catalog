@@ -54,7 +54,7 @@
 
 1. **Клонируйте репозиторий**
 
-   git clone https://github.com/ваш-username/3d-models-catalog.git
+   git clone 
    
    cd 3d-models-catalog
 
